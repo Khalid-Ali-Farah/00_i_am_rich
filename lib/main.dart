@@ -9,7 +9,7 @@ void main() {
         appBar: AppBar(
           title: const Text(
             'I Am Rich App',
-            style: TextStyle(color: Colors.black,fontWeight: FontWeight.bold),
+            style: TextStyle(color: Colors.black, fontWeight: FontWeight.bold),
           ),
           backgroundColor: Colors.orangeAccent,
         ),
