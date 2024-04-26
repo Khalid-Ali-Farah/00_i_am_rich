@@ -2,7 +2,7 @@
 
 This app does nothing; rather, it's designed to be a dignified representation of wealth.
 
-## I am rich app Preview
+## I Am Rich App Preview
 
 ![MyCard Image](i_am_rich_app.png)
 
