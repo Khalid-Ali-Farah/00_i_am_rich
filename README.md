@@ -4,7 +4,7 @@ This app does nothing; rather, it's designed to be a dignified representation of
 
 ## I Am Rich App Preview
 
-![MyCard Image](i_am_rich_app.png)
+![I am rich app Image](i_am_rich_app.png)
 
 
 
@@ -12,5 +12,5 @@ This app does nothing; rather, it's designed to be a dignified representation of
 
 ## Installation
 
-To install MyCard, you need to have Flutter installed on your system.
+To install I am rich app, you need to have Flutter installed on your system.
 
